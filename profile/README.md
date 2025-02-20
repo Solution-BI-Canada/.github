@@ -8,4 +8,4 @@ Yes, we are building an Solution-BI GitHub on GitHub.
 
  ---
 
-<sub>🤫 Psst! You can visit our [Web Site](https://www.solution-bi.com/) or linkedin [page](https://www.linkedin.com/company/solutionbi-group/posts/?feedView=all
+<sub>🤫 Psst! You can visit our [Web Site](https://www.solution-bi.com/) or linkedin [page](https://www.linkedin.com/company/solutionbi-group/posts/?feedView=all)
